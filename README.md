@@ -60,7 +60,7 @@
 
 ### 1. Клонировать репозиторий
 ```
-git clone https://github.com/username/project-name.git
+git clone https://github.com/AkihiroAck/API-Questions-and-Answers.git
 cd project-name
 ```
 
