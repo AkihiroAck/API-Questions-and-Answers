@@ -61,7 +61,7 @@
 ### 1. Клонировать репозиторий
 ```
 git clone https://github.com/AkihiroAck/API-Questions-and-Answers.git
-cd project-name
+cd API-Questions-and-Answers
 ```
 
 ### 2. Создать файл .env
